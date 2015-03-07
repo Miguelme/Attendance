@@ -10,6 +10,7 @@ An attendace application using localStorage with Ionic Framework for mobile
 
 * Downloading dependencies
 ```sh
+$ npm install
 $ bower install
 ```
 * Running the livereload server for Android and iOS
