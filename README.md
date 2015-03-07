@@ -1,12 +1,12 @@
 # Attendance
 An attendace application using localStorage with Ionic Framework for mobile
 
-Requisites 
+## Requisites 
 
 * NodeJS and NPM installed
 * Bower, Apache Cordova and Ionic installed 
 
-Running Application 
+## Running Application 
 
 * Downloading dependencies
 ```sh
